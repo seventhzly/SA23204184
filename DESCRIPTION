@@ -1,0 +1,17 @@
+Package: SA23204184
+Type: Package
+Title: Calculate the integral for sin(x)
+Version: 1.0
+Date: 2023-12-11
+Author: Liyang Zheng
+Maintainer: Liyang Zheng <747717382@qq.com>
+Description: calculate the integral for sin(x).
+License: GPL (>= 2)
+Suggests: knitr, rmarkdown
+Imports: Rcpp (>= 1.0.11)
+LinkingTo: Rcpp
+RoxygenNote: 7.2.3
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: http://github.com/seventhzly/SA23204184
+BugReports: http://github.com/seventhzly/SA23204184/issues
